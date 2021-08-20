@@ -1,4 +1,4 @@
 package client
 
-const Vstamp string = "v0.1.7"
+const Vstamp string = "v0.1.8"
 
