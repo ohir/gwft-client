@@ -1,4 +1,4 @@
 package client
 
-// last touch:
-// DATE: 20210818::20:28:03
+const Vstamp string = "v0.1.7"
+
